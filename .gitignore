@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+build/
+__pycache__
+data/board_custom.json
