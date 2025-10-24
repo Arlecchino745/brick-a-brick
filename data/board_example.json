@@ -1,0 +1,8 @@
+{
+    "size":5,
+    "patterns":[
+        {"id":1, "cost":1, "positions":[[0,2],[2,1]]},
+        {"id":2, "cost":1, "positions":[[1,4],[4,3]]},
+        {"id":3, "cost":1, "positions":[[4,1],[2,4]]}
+    ]
+}
